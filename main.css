@@ -4,7 +4,7 @@ html {
 	background-repeat: repeat-y;
 	background-attachment: fixed;
 	background-position: center;
-	background-size: 150%
+	background-size: 156%
 }
 
 #header {
@@ -28,6 +28,7 @@ html {
 	text-align: center;
 	padding: 35px 0;
 	width: 100%;
+	margin-left: -7%;
 }
 #nav-side ul#play {
 	background-color: red;
@@ -40,6 +41,7 @@ ul#nav{
 	text-decoration: none;
 }
 #toon-of-the-month {
+	border: 2px outset white;
 	font-family: "Minnie";
 	padding: 20px;
 	margin-left: 5%;
